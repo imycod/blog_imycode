@@ -12,7 +12,7 @@ function createVue() {
                     link: '/source/vue/render/',
                     items: [
                         {
-                            text: '文档2',
+                            text: '对children处理',
                             link: '/source/vue/render/children'
                         }
                     ]

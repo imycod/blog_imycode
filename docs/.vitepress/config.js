@@ -11,7 +11,7 @@ module.exports = {
     search: true,
     // 主题配置
     themeConfig: {
-        repo: '源码学习',
+        repo: '前端职业生涯',
         docsRepo: '2年以上资深大佬带你玩转前端.',
         logo: '/img/linktolink.png',
         docsBranch: 'main',
