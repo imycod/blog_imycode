@@ -7,11 +7,14 @@
     "dev": "vitepress dev docs --open",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
-    "deploy": "./deploy.sh"
+    "deploy": "deploy.sh"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.51"
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^13.0.1",
+    "vitepress": "^1.0.0-alpha.36",
+    "vitepress-plugin-search": "^1.0.4-alpha.19"
   }
 }

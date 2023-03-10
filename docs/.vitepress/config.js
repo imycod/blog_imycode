@@ -1,5 +1,6 @@
 import {projectNav} from "./configs/project.js"
 import {createVue} from "./configs/subject/vue.js"
+import algolia from "./algolia.js"
 
 module.exports = {
     title: 'WXS的博客',
@@ -16,6 +17,7 @@ module.exports = {
         docsBranch: 'main',
         editLinks: false,
         editLinkText: '为此页面提供修改建议',
+        algolia,
         //   头部导航
         nav: createNav(),
         //   侧边导航
