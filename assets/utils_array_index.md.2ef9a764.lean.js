@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,b as r}from"./app.20d0f183.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/array/index.md"}'),s={name:"utils/array/index.md"},n=r("p",null,"对数组结构的处理包括 tree 等结构后续会补充",-1),o=[n];function c(i,d,_,l,p,m){return a(),t("div",null,o)}const x=e(s,[["render",c]]);export{f as __pageData,x as default};
