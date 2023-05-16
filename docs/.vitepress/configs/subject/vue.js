@@ -1,11 +1,11 @@
 function createVue() {
     return [
         {
-            text: '指南',
+            text: '',
             items: [
                 {
-                    text: '文档1',
-                    link: '/source/vue/'
+                    text: '挂载',
+                    link: '/source/vue/mount'
                 },
                 {
                     text: '渲染',
@@ -18,7 +18,8 @@ function createVue() {
                     ]
                 },
             ]
-        }
+        },
+       
     ]
 }
 

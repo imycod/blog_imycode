@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as a}from"./app.ead3f76b.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/gokedu/index.md"}'),n={name:"project/gokedu/index.md"},s=a("p",null,"4端部署,教学平台,app,运管和租户",-1),r=[s];function c(d,p,_,i,l,m){return o(),t("div",null,r)}const x=e(n,[["render",c]]);export{f as __pageData,x as default};

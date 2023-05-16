@@ -7,6 +7,7 @@
     "dev": "vitepress dev docs --open",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
+    "deployBefore": "node ./deploybefore.js",
     "deploy": "deploy.sh"
   },
   "author": "",
